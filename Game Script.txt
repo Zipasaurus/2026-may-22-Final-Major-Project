@@ -1,0 +1,43 @@
+Cecillia's Consciounce.
+
+Dw about doing SFX :P I'll be doing those :P
+
+Voice line Rule set
+Comments with --Example-- Will show how the script should be said. Often may be followed with --Example-- -> --Example2-- If the tone needs to change through out that part of the script
+Comments with (Context/SoundAffects) Will be above the text to hopefully help set the mood.
+A letter followed with dashes is an extended letter i.e "Suppo---sed to be happening"
+
+
+(Context - The Following text is just after the Player woke up in the dream after falling asleep-- But something doesn't feel right. (The dream is completely empty, and Dark.))
+
+-- Concerned --
+Somethings not right- Where is the---
+
+(SFX - The Narrator rustles through Papers and draws looking for what was supposed to happen when Cecillia went to sleep)
+
+     --Spoken with endearment--               --Slight Concern--              --Spoken Normally--     
+Don't be alarmed on what I'm about to say, Your no--t supposed to be here. Sorry, I mean you are-- Just...Well, Not Here.
+
+To be honest with you, I'm baffled- this is a first.
+
+Whilst I figure this out- why don't you have fun with some echolocation? Test it out
+
+(Player Uses Echolocation)
+
+Isn't that awesome! Yes I could give you more... But cmon, This. This is a first for me, we can't just end it like that can we? Besides... Your in a dream- your free of any harm.
+
+Why don't you explore a little? see what you can find.
+
+(Player searches around and finds a locked door)
+
+--Surprised-- -> --Normal from here--{                                                                }
+A locked door. Now I'm really excited, there must be a way to open it- why don't you go looking around.
+
+(Player Finds key)                                      --Excited--
+It's funny really- I could've told you where that was, but look at you go! You did that all by yourself! Nicely done!
+
+---
+This is we're I'm happy to leave it, after all it is only a verticle slice :P
+---
+
+
